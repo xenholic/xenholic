@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on nothing
-- 🌱 I’m currently learning JavaScript
-- 👯 I’m looking to collaborate on Full-stack
-- 🤔 I’m looking for help with Jobs
-- 💬 Ask me about Anything
-- 📫 How to reach me: instagram : @xenholic
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on nothing.
+- 🌱 I’m currently learning JavaScript, and Golang.
+- 👯 I’m looking to collaborate on Full-stack or Frontend
+- 🤔 I’m looking for help with Jobs.
+- 💬 Ask me about Anything.
+- 📫 How to reach me: instagram : @xenholic.
+- 😄 Pronouns: This github is mine 😄.
+- ⚡ Fun fact: Like to learn something new.
