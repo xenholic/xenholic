@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Andri!
-Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
+Currently working with TypeScript, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
 ### Tools:
 <p>
