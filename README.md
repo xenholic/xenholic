@@ -13,7 +13,7 @@ Currently working with TypeScript, but I love learn new thing in programming suc
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working on RPA </br>
+    - 🔭 I’m currently working in TKG </br>
     - 🌱 I’m currently learning JavaScript,Typescript and UIKit </br>
     - 👯 I’m looking to collaborate on Automation Project, Website System. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
