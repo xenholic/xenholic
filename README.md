@@ -7,7 +7,7 @@ Currently working with TypeScript, but I love learn new thing in programming suc
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
     <img src="https://img.shields.io/npm/v/npm.svg?logo=nodedotjs" />
     <img src="https://img.shields.io/badge/IDE-Xcode-blue?&logo=xcode" />
-    <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
+    <img src="https://img.shields.io/badge/Text%20Editor-IntelijIdea-blue?&logo=https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJetBrains_IntelliJ_IDEA_Product_Icon.svg&psig=AOvVaw2Ti8BjrrIyKz4p1PuKwzT0&ust=1749091172665000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDtgMPe1o0DFQAAAAAdAAAAABAK" />
 </p>
 
 ### Stats:
