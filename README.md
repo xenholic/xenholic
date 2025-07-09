@@ -27,12 +27,11 @@ Currently working with TypeScript, but I love learn new thing in programming suc
 </p>
 
 ### Let's connect!
-<p>
-<!--     <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
-    <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
-    <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
-    <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
-    <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
+<p align="left">
+<a href="https://github.com/xenholic">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=xenholic&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=xenholic&layout=compact&langs_count=8&theme=algolia"/>
+</a>
 </p>
 
 <!--
