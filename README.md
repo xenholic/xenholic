@@ -13,12 +13,12 @@ Currently working with TypeScript, but I love learn new thing in programming suc
 ### Stats:
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently working in TKG </br>
+    - 🔭 I’m currently working in PT SADAJIWA KIRANA TIGA as a Founder</br>
     - 🌱 I’m currently learning JavaScript,Typescript and UIKit </br>
     - 👯 I’m looking to collaborate on Automation Project, Website System. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:zenobiaholic@gmail.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:andri@sadajiwakiranatiga.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
